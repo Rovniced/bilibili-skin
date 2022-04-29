@@ -7,8 +7,13 @@
 │       个性装扮.json
 │       个性装扮-套装.json（*如果存在套装的情况下）
 │       <主题名称>.json
+<<<<<<< Updated upstream
 │       <主题名称>_package.zip
 └       preview.jpg
+=======
+│       preview.jpg
+└       <主题名称>_package.zip
+>>>>>>> Stashed changes
 ```
 
 ### 如果你有一些已经下架的主题 欢迎提交pr
