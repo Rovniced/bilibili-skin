@@ -2,11 +2,12 @@
 
 ```tree
 目录格式
-├───主题名称>文件夹
+├───<主题名称>文件夹
+│       preview.jpg
 │       原始.json
 │       个性装扮.json
 │       个性装扮-套装.json（*如果存在套装的情况下）
-│       preview.jpg
+│       <主题名称>.json
 └       <主题名称>_package.zip
 ```
 
